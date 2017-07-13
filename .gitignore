@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *.jp2
 *.out
+__pycache__
